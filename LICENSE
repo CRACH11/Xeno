@@ -1,52 +1,223 @@
-This is free and unencumbered software released into the public domain.
+═══════════════════════════════════════════════════════════
+            УНИВЕРСАЛЬНАЯ ЛИЦЕНЗИЯ ПРОЕКТА «CRACH11»
+                    Версия 3.0 | PUBLIC USE + DISCLAIMER
+═══════════════════════════════════════════════════════════
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+📜 ОБЩИЕ ПОЛОЖЕНИЯ
+───────────────────────────────────────────────────────────
+Настоящий документ является единым лицензионным соглашением,
+регулирующим использование любого программного обеспечения,
+скриптов, утилит, репаков и цифровых продуктов, выпускаемых
+под идентификатором **CRACH11**.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Этот документ действует автоматически для всех текущих и
+будущих релизов, если не указано иное.
+
+───────────────────────────────────────────────────────────
+🔓 ПРАВА ПОЛЬЗОВАТЕЛЯ
+───────────────────────────────────────────────────────────
+Любое лицо вправе:
+  ✓ Использовать программное обеспечение в любых целях
+  ✓ Копировать, распространять и передавать третьим лицам
+  ✓ Модифицировать, декомпилировать и адаптировать под свои нужды
+  ✓ Применять в коммерческих и некоммерческих проектах
+  ✓ Публиковать результаты модификации с указанием источника
+
+Условие: при распространении должна сохраняться ссылка на
+оригинального автора — **CRACH11**.
+
+───────────────────────────────────────────────────────────
+🛡️ ЗАЩИТА АВТОРСКИХ ПРАВ
+───────────────────────────────────────────────────────────
+© **CRACH11** — исключительный идентификатор автора.
+
+• Запрещено присваивать авторство продуктов CRACH11
+• Запрещено удалять или заменять метки авторства в коде/интерфейсе
+• Запрещено использовать имя «CRACH11» для введения в заблуждение
+• Разрешено указывать «На основе работы CRACH11» при модификациях
+
+Нарушение данных условий аннулирует права на использование
+и может повлечь претензии в рамках применимого законодательства.
+
+───────────────────────────────────────────────────────────
+⚠️ ПОЛНЫЙ ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ (МАКСИМАЛЬНАЯ ЗАЩИТА)
+───────────────────────────────────────────────────────────
+❗❗❗ ВНИМАНИЕ: ПРОЧИТАЙТЕ ПЕРЕД ИСПОЛЬЗОВАНИЕМ ❗❗❗
+
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ» (AS IS),
+БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ — ЯВНЫХ, ПОДРАЗУМЕВАЕМЫХ ИЛИ
+ЗАКОНОДАТЕЛЬНЫХ.
+
+АВТОР (CRACH11) КАТЕГОРИЧЕСКИ НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ЗА:
+
+🔴 ЛЮБЫЕ ДЕЙСТВИЯ ПОЛЬЗОВАТЕЛЯ:
+  • Использование ПО в нарушение правил сервисов, игр, платформ
+  • Блокировку, бан, ограничение доступа к аккаунтам
+  • Потерю прогресса, данных, виртуальных ценностей
+
+🔴 ТЕХНИЧЕСКИЕ ПОСЛЕДСТВИЯ:
+  • Сбои ОС, повреждение файлов, потерю работоспособности ПК
+  • Конфликты с антивирусами, брандмауэрами, защитными системами
+  • Ложные срабатывания детектов (в т.ч. на кряки/патчи)
+
+🔴 ЮРИДИЧЕСКИЕ РИСКИ:
+  • Претензии со стороны правообладателей, органов, третьих лиц
+  • Нарушение лицензионных соглашений конечного пользователя (EULA)
+  • Любые штрафы, иски, административные или уголовные дела
+
+🔴 КОММЕРЧЕСКИЕ УБЫТКИ:
+  • Упущенную выгоду, потерю репутации, косвенный ущерб
+  • Расходы на восстановление данных или систем
+
+НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ:
+  • Использование = автоматическое принятие всех рисков
+  • Автор не обязан оказывать поддержку, обновления или исправления
+  • Факт скачивания означает полное согласие с данным документом
+
+───────────────────────────────────────────────────────────
+⚖️ ПРАВОВОЙ СТАТУС
+───────────────────────────────────────────────────────────
+• Данная лицензия составлена в соответствии с принципами
+  международного права и законодательством РФ.
+
+• В юрисдикциях, где полный отказ от ответственности не
+  допускается, ответственность автора ограничивается
+  максимальной суммой, разрешённой законом (но не более $1).
+
+• Все споры подлежат досудебному урегулированию. Претензии
+  принимаются только в письменной форме с указанием доказательств.
+
+───────────────────────────────────────────────────────────
+🌐 СФЕРА ДЕЙСТВИЯ
+───────────────────────────────────────────────────────────
+Лицензия применяется ко всем продуктам под маркой CRACH11:
+  ✓ Репак-сборки и архивные версии ПО
+  ✓ Скрипты, утилиты, патчи, моды
+  ✓ Документация, гайды, конфигурационные файлы
+  ✓ Любой иной цифровой контент, выпущенный автором
+
+───────────────────────────────────────────────────────────
+🔐 ФИНАЛЬНЫЕ ПОЛОЖЕНИЯ
+───────────────────────────────────────────────────────────
+• Автор оставляет за собой право обновлять данную лицензию.
+• Актуальная версия всегда публикуется вместе с релизом.
+• Молчание автора не означает согласия с нарушениями.
+
+© **CRACH11** — Все права на авторство защищены.  
+   Все риски использования — на стороне пользователя.
+
+═══════════════════════════════════════════════════════════
+📅 Дата вступления в силу: 21.05.2026
+______________________________________
+--------------------------------------
+______________________________________
+
+═══════════════════════════════════════════════════════════
+
+
+📜 GENERAL PROVISIONS
+───────────────────────────────────────────────────────────
+This document constitutes a universal license agreement governing
+the use of any software, scripts, utilities, repacks, and digital
+products released under the identifier **CRACH11**.
+
+This license applies automatically to all current and future
+releases unless otherwise explicitly stated.
+
+───────────────────────────────────────────────────────────
+🔓 USER RIGHTS
+───────────────────────────────────────────────────────────
+Any person is granted the right to:
+  ✓ Use the software for any purpose (commercial or non-commercial)
+  ✓ Copy, distribute, and transfer to third parties
+  ✓ Modify, decompile, reverse-engineer, or adapt to their needs
+  ✓ Publish derivative works with proper attribution
+  ✓ Include in personal, educational, or research projects
+
+Condition: Any redistribution must retain clear attribution to
+the original author — **CRACH11**.
+
+───────────────────────────────────────────────────────────
+🛡️ COPYRIGHT PROTECTION
+───────────────────────────────────────────────────────────
+© **CRACH11** — Exclusive author identifier and brand mark.
+
+• Attribution of CRACH11 products to other authors is strictly prohibited
+• Removal or alteration of authorship tags in code/interface is forbidden
+• Use of the name "CRACH11" to mislead users about origin is prohibited
+• Derivative works must credit "Based on work by CRACH11"
+
+Violation of these terms automatically terminates usage rights
+and may result in legal claims under applicable law.
+
+───────────────────────────────────────────────────────────
+⚠️ COMPREHENSIVE DISCLAIMER OF LIABILITY (MAXIMUM PROTECTION)
+───────────────────────────────────────────────────────────
+❗❗❗ WARNING: READ CAREFULLY BEFORE USE ❗❗❗
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+NON-INFRINGEMENT.
 
-CRACH11 NOT RESPONSIBLE FOR ACCOUNT BLOCKING!
+THE AUTHOR (CRACH11) EXPRESSLY DISCLAIMS ALL LIABILITY FOR:
 
-For more information, please refer to <https://unlicense.org>
-____________________________________________________________________________
+🔴 ANY USER ACTIONS:
+  • Use of software in violation of ToS/EULA of services, games, platforms
+  • Account suspension, permanent bans, or access restrictions
+  • Loss of progress, data, virtual items, or in-game assets
 
-Это свободное и ничем не обремененное программное обеспечение, выпущенное в общественное достояние.
+🔴 TECHNICAL CONSEQUENCES:
+  • OS instability, file corruption, or system malfunction
+  • Conflicts with antivirus, firewall, or security software
+  • False-positive detections (including for cracks/patches/keygens)
 
-Любой может свободно копировать, изменять, публиковать, использовать, компилировать, продавать или
-распространять это программное обеспечение, как в виде исходного кода, так и в виде скомпилированного
-бинарного файла, для любых целей, коммерческих или некоммерческих, и любыми
-средствами.
+🔴 LEGAL RISKS:
+  • Claims from copyright holders, regulatory bodies, or third parties
+  • Violation of end-user license agreements (EULA) or terms of service
+  • Any fines, lawsuits, administrative or criminal proceedings
 
-В юрисдикциях, признающих законы об авторском праве, автор или авторы
-этого программного обеспечения передают все свои авторские права на это
-программное обеспечение в общественное достояние. Мы делаем это в интересах
-широкой общественности и в ущерб нашим наследникам и
-преемникам. Мы намерены, чтобы это передача была явным актом
-отказа от всех существующих и будущих прав на это
-программное обеспечение в соответствии с законом об авторском праве.
+🔴 COMMERCIAL DAMAGES:
+  • Loss of profit, reputation damage, or indirect/consequential losses
+  • Costs associated with data recovery or system restoration
 
-ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ,
-ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ГАРАНТИИ
-ТОВАРНОЙ ПРИГОДНОСТИ, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И ОТСУТСТВИЯ НАРУШЕНИЯ ПРАВ.
-НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ АВТОРЫ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА КАКИЕ-ЛИБО ПРЕТЕНЗИИ, УЩЕРБ ИЛИ
-ДРУГУЮ ОТВЕТСТВЕННОСТЬ, ВОЗНИКАЮЩИЕ В РЕЗУЛЬТАТЕ ДОГОВОРА, ДЕЛИКТА ИЛИ ИНЫМ ОБРАЗОМ,
-ВОЗНИКАЮЩИЕ ИЗ ИЛИ В СВЯЗИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ ИЛИ ЕГО ИСПОЛЬЗОВАНИЕМ.
+UNDER NO CIRCUMSTANCES:
+  • Use of the software = automatic acceptance of all risks
+  • The author is not obligated to provide support, updates, or fixes
+  • Downloading or installing constitutes full acceptance of this license
 
-CRACH11 НЕ ОТВЕСТВЕН ЗА БЛОКИРОВКУ АККАУНТА!
-АВТОРСКИЕ ПРАВА CRACH11 ЗАЩИЩЕНЫ
+───────────────────────────────────────────────────────────
+⚖️ LEGAL STATUS & JURISDICTION
+───────────────────────────────────────────────────────────
+• This license is drafted in accordance with international legal
+  principles and the legislation of the Russian Federation.
+
+• In jurisdictions where a full disclaimer of liability is not
+  legally enforceable, the author's liability shall be limited
+  to the maximum extent permitted by law (not exceeding $1 USD).
+
+• All disputes shall first undergo pre-trial resolution. Claims
+  must be submitted in writing with supporting evidence.
+
+───────────────────────────────────────────────────────────
+🌐 SCOPE OF APPLICATION
+───────────────────────────────────────────────────────────
+This license applies to all products under the CRACH11 brand:
+  ✓ Repack assemblies and archival software versions
+  ✓ Scripts, utilities, patches, mods, and loaders
+  ✓ Documentation, guides, configuration files
+  ✓ Any other digital content released by the author
+
+───────────────────────────────────────────────────────────
+🔐 FINAL PROVISIONS
+───────────────────────────────────────────────────────────
+• The author reserves the right to update this license at any time.
+• The latest version is always bundled with each release.
+• Silence or inaction by the author does not constitute waiver
+  of rights or acceptance of violations.
+
+© **CRACH11** — All authorship rights reserved.  
+   All risks of use are borne solely by the user.
+
+═══════════════════════════════════════════════════════════
+📅 Effective Date: 21.05.2026  
